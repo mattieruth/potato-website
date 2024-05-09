@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+  }
+  
+h1 {
+    color: white;
+    text-align: center;
+  }
+
+#imgs {
+    height: 335px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+#potato_img {
+    height: 100%;
+}
+
+#potato2_img {
+    height: 10%;
+}
+
+  #house_img {
+    height: 33%;
+  }
+
